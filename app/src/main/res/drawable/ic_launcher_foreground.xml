@@ -1,0 +1,7 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- A handheld and a single motion arrow, drawn as simple geometry. -->
+    <path android:fillColor="#172A34" android:pathData="M32,40H76Q82,40 82,46V68Q82,74 76,74H32Q26,74 26,68V46Q26,40 32,40Z" />
+    <path android:fillColor="#00000000" android:strokeColor="#8DE6CE" android:strokeWidth="3.5" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M32,40H76Q82,40 82,46V68Q82,74 76,74H32Q26,74 26,68V46Q26,40 32,40Z M33,57H45 M39,51V63 M34,31Q54,15 75,31 M65,30L75,31L73,21" />
+    <path android:fillColor="#00000000" android:strokeColor="#E7EFF4" android:strokeWidth="2" android:strokeLineCap="round" android:pathData="M51,57H59 M55,53V61" />
+    <path android:fillColor="#8DE6CE" android:pathData="M66,51a2.5,2.5 0,1 0,0.01 0 M73,58a2.5,2.5 0,1 0,0.01 0" />
+</vector>

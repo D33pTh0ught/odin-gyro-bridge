@@ -1,0 +1,5 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="24dp" android:height="24dp" android:viewportWidth="24" android:viewportHeight="24">
+    <!-- Notification icons use alpha only: keep the background transparent. -->
+    <path android:fillColor="#00000000" android:strokeColor="#FFFFFFFF" android:strokeWidth="1.8" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M6,8.5H18Q20,8.5 20,10.5V17Q20,19 18,19H6Q4,19 4,17V10.5Q4,8.5 6,8.5Z M6.5,13.5H10.5 M8.5,11.5V15.5 M6,5Q12,0 18,5 M14.5,4.8L18,5L17.5,1.7" />
+    <path android:fillColor="#FFFFFFFF" android:pathData="M15,11.5a1,1 0,1 0,0.01 0 M17,14a1,1 0,1 0,0.01 0" />
+</vector>
